@@ -10,9 +10,7 @@ public class FirstExample {
 		System.out.println("Hello");
 		
 		
-		
-		
-		
+
 		
 	}
 }
